@@ -1,8 +1,8 @@
 ## UML Use Case for persistent data
-![](https://github.com/HoaxShark/comp260-server/blob/master/Design%20Documents/Client%20Class%20UML.png?raw=true)  
+![](https://raw.githubusercontent.com/HoaxShark/inkdSourceCode/master/Images/UseCase.png)  
 
 ## UML Class Diagram for persistent data
-![](https://github.com/HoaxShark/comp260-server/blob/master/Design%20Documents/Client%20Class%20UML.png?raw=true)  
+![](https://raw.githubusercontent.com/HoaxShark/inkdSourceCode/master/Images/ClassDiagram.png)  
 
 ## LevelData class pseudo code
 ```
